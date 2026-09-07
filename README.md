@@ -20,4 +20,4 @@ The input to the Multi ES-ELM model is multivariate time series data from seismi
 ## Citation
 If you use this code or model in your research, please cite the following paper:
 
-> Chomchit, P., Aramkul, S., Somchit, Y., & Champrasert, P. (2025). Earthquake early warning using multi-channels echo state extreme learning machine. *Journal of Current Science and Technology, 15*(4), Article 139. (https://doi.org/10.59796/jcst.V15N4.2025.139)[cite: 1]
+> Chomchit, P., Aramkul, S., Somchit, Y., & Champrasert, P. (2025). Earthquake early warning using multi-channels echo state extreme learning machine. *Journal of Current Science and Technology, 15*(4), Article 139. https://doi.org/10.59796/jcst.V15N4.2025.139
